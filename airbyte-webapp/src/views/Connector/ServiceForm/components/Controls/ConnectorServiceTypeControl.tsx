@@ -190,7 +190,7 @@ const ConnectorServiceTypeControl: React.FC<{
       : [];
   if (
     window.CLOUD === "true" &&
-    workspace.workspaceId === "8fda1978-22bc-466c-a9d5-eaf18bb705a9"
+    workspace.workspaceId === "54135667-ce73-4820-a93c-29fe1510d348"
   ) {
     disallowedOauthConnectors = disallowedOauthConnectors.filter(
       (id) => id !== "9da77001-af33-4bcd-be46-6252bf9342b9"
